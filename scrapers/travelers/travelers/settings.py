@@ -16,7 +16,7 @@ FEED_FORMAT = 'json'
 FEED_URI = 'traveling_spirits.json'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
+USER_AGENT = 'Jessica Lewis (data science enthusiast)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
