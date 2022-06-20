@@ -13,7 +13,7 @@ SPIDER_MODULES = ['travelers.spiders']
 NEWSPIDER_MODULE = 'travelers.spiders'
 
 FEED_FORMAT = 'json'
-FEED_URI = 'traveling_spirits.json'
+FEED_URI = '../../data/traveling_spirits.json'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Jessica Lewis (data science enthusiast)'
